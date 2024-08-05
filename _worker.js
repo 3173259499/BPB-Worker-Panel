@@ -11,7 +11,7 @@ let userID = '43127045-c52d-464e-baa6-7b90c441767d';
 
 // https://www.nslookup.io/domains/cdn.xn--b6gac.eu.org/dns-records/
 // https://www.nslookup.io/domains/cdn-all.xn--b6gac.eu.org/dns-records/
-const proxyIPs= ['85vv.cc', 'df184.cc'];
+const proxyIPs= ['www.kali.org'];
 
 const defaultHttpPorts = ['80', '8080', '2052', '2082', '2086', '2095', '8880'];
 const defaultHttpsPorts = ['443', '8443', '2053', '2083', '2087', '2096'];
